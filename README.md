@@ -37,5 +37,5 @@ Whether I am optimizing hardware circuits or building agentic AI, I am driven by
 
 ### 🌐 Connect with Me
 
-* **Email:** [Email](lakshmis002@e.ntu.edu.sg)
+* **Email:** lakshmis002@e.ntu.edu.sg
 * **LinkedIn:** www.linkedin.com/in/lakshmisurya9
