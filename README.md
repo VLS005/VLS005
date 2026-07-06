@@ -22,7 +22,7 @@ Whether I am optimizing hardware circuits or building agentic AI, I am driven by
 
 ### 🚀 Key Projects
 
-* **Agentic AI Integration:** Developing prototypes that utilize autonomous agents for real-world problem solving, including [Dora and Guidind Dory].
+* **Agentic AI Integration:** Developing prototypes that utilize autonomous agents for real-world problem solving, including Dora: the travel buddy and Guiding Dory.
 * **Hardware Labs:** Designing and testing digital logic modules, finite state machines, and switch matrices in FPGA environments.
 
 ---
